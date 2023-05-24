@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Github Pages Website</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+</style>
+</head>
+<body>
+<nav>
+<a href="index.html">About</a>
+<a href="clips.html">Clips</a>
+<a href="archive.html">Archive</a>
+</nav>
+<div style="text-align: center">
+<p style="font-size: 40px; font-weight:font-family: 'Lato',bold; color: #b05554 ">SIMMONE SHAH</p>
+<img src="collages/22900020.JPEG" alt="Image Description" width="70%" height="70%">
+
+
+</div>
+
+<style>
+  /* Add the Lato Light font from Google Fonts */
+  @import url('https://fonts.googleapis.com/css?family=Lato:300&display=swap');
+ 
+  /* Apply the Lato Light font to the text block */
+  .about-me {
+    font-family: 'Lato Light', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+  }
+</style>
+
+<div class="about-me">
+  <p>Hi! My name is Simmone. I'm a reporter at TIME where I cover international affairs and tech. I also help cover breaking news and fact-check stories for the magazine. Previously, I was an intern on Reveal's engagement team, where I provided research assistance for a newsroom collaboration on the
+Silicon Valley housing crisis, and helped write weekly newsletters, tweetstorms, and Instagram stories; my work was included in a package that won a 2020 Murrow in social media reporting. I was also an intern at ELLE, where I did research for feature stories and helped track (and read!) books for magazine consideration.
+ 
+Say hi at simmoneshah[at]gmail[dot]com or on Twitter at @simmoneshah. </p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+<style>
+  /* Add the Lato font from Google Fonts */
+  @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+ 
+  /* Apply the Lato font to the footer */
+  footer {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    padding: 20px 0;
+  }
+</style>
